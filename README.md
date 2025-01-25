@@ -17,6 +17,6 @@ CrimsonCode 2024 CBT BudgetApp
        8. To track your finances for this month, you need to enter the expenses of categories. 
        9. Enter the name of a desired category, the total amount spent for that category, and the budget for that category. Click "Add Category" when complete.
        10. We now see the total amount of money spent("Total Spent") and the amount of budgeted("Amount Budgeted"). The Total Income is the monthly income of the user and the Total Difference is the total amount of money spent subtracted from the Total Income.
-       10. To remove a category, click the "Remove" button under the desired category.
-       8. To exit the application, click the "Logout" button in the upper right.
+       11. To remove a category, click the "Remove" button under the desired category.
+       12. To exit the application, click the "Logout" button in the upper right.
        
